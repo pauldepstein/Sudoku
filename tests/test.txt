@@ -1,0 +1,71 @@
+Paul				EPI
+
+Test 1:
+
+real    0m0.998s	real    0m1.763s
+user    0m0.935s	user    0m1.747s
+sys     0m0.062s	sys     0m0.015s
+
+
+Test 2:
+
+real    0m0.874s	real    0m1.747s
+user    0m0.842s	user    0m1.731s
+sys     0m0.030s	sys     0m0.015s
+
+
+Test 3:
+
+real    0m0.874s	real    0m1.654s
+user    0m0.842s	user    0m1.638s
+sys     0m0.015s	sys     0m0.015s
+
+
+Test 4:
+
+real    0m0.858s	real    0m1.622s
+user    0m0.842s	user    0m1.621s
+sys     0m0.015s	sys     0m0.000s
+
+
+Test 5:
+
+real    0m0.858s	real    0m1.732s
+user    0m0.842s	user    0m1.716s
+sys     0m0.015s	sys     0m0.015s
+
+
+Test 6:
+
+real    0m0.874s	real    0m1.607s
+user    0m0.842s	user    0m1.560s
+sys     0m0.015s	sys     0m0.015s
+
+
+Test 7:
+
+real    0m0.889s	real    0m1.591s
+user    0m0.858s	user    0m1.560s
+sys     0m0.030s	sys     0m0.030s
+
+
+Test 8:
+
+real    0m0.920s	real    0m1.576s
+user    0m0.873s	user    0m1.544s
+sys     0m0.030s	sys     0m0.015s
+
+
+Test 9:
+
+real    0m0.889s	real    0m1.622s
+user    0m0.873s	user    0m1.606s
+sys     0m0.015s	sys     0m0.015s
+
+
+Test 10:
+
+real    0m1.576s	real    0m0.874s
+user    0m1.560s	user    0m0.873s
+sys     0m0.015s	sys     0m0.000s
+
